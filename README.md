@@ -6,8 +6,9 @@ Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science*
 
 « Il y a une magie dans les graphiques. Le proﬁl d’une courbe révèle en un ﬂash toute une situation. L’histoire d’une épidémie, d’une panique ou d’une ère de prospérité… La courbe informe l’esprit, éveille l’imagination, forge la conviction. » – Henry D. Hubbard
 
+### ▶️ Résumé
 - 🎓 Actuellement à la recherche d'une **alternance** pour septembre 2026 (Rythme : 3 semaines/ 1 semaine)
-- 🔧 Compétences : Python (Pandas, Numpy), SQL, R
+- 🔧 Compétences : Python (Pandas, Numpy), SQL, R, SPSS, SAS
 
 ### ▶️ Projets Majeurs
 Python : 
@@ -42,6 +43,8 @@ Autres :
 ![Stats de DLL40](https://github-readme-stats-vercel.app/api?username=DLL40&show_icons=true&theme=radical) 
 
 ### ▶️ Langues
+-🇫🇷 Français (Langue maternelle)
+-🇬🇧 Anglais (niveau B2)
 
 ### ▶️ Centre d'intérêt
 
