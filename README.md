@@ -1,6 +1,6 @@
 # Denis, aspirant et futur Data Scientist  📊
 
-=> Ce qu'il me m'attire dans ce métier : "Transformer les données brutes en décisions stratégiques"
+=> Ce qui m'attire dans ce métier : Transformer les données brutes en décisions stratégiques
 
 « Il y a une magie dans les graphiques. Le proﬁl d’une courbe révèle en un ﬂash toute une situation. L’histoire d’une épidémie, d’une panique ou d’une ère de prospérité… La courbe informe l’esprit, éveille l’imagination, forge la conviction. » – Henry D. Hubbard
 
