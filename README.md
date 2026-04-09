@@ -43,8 +43,9 @@ Autres :
 ![Stats de DLL40](https://github-readme-stats-vercel.app/api?username=DLL40&show_icons=true&theme=radical) 
 
 ### ▶️ Langues
--🇫🇷 Français (Langue maternelle)
--🇬🇧 Anglais (niveau B2)
+![Français](https://img.shields.io/badge/Français-Langue%20Maternelle-blue?style=flat-square&logo=openstreetmap&logoColor=white)
+- 🇫🇷 Français (Langue maternelle)
+- 🇬🇧 Anglais (niveau B2)
 
 ### ▶️ Centre d'intérêt
 
