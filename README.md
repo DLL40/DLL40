@@ -9,7 +9,7 @@ Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science*
 - 🎓 Actuellement à la recherche d'une **alternance** pour septembre 2026 (Rythme : 3 semaines/ 1 semaine)
 - 🔧 Compétences : Python (Pandas, Numpy), SQL, R
 
-### Projets Majeurs
+### ▶️ Projets Majeurs
 Python : 
 - Réalisation de scripts python permettant une assistance au quotidien pour les tâches répétitives (fusion de documents, traduction, conversion de fichiers...)
 - Manipulation d'un dataframe avec python (suppression, création et renommage de variables)
@@ -22,29 +22,30 @@ Autres :
 - Suivi de l'épidémie de coronavirus avec la base de données Worldometer (graphiques excel)
 - Réalisation de cartes qgis sur la mobilité dans le département des Landes (40)
 
-### Compétences techniques 
+### ▶️ Compétences techniques 
 - Analyse exploratoire et descritive des données (R, SPSS, Pandas et Numpy, SQL) : Dictionnaire des données, statistiques univariées et bivariées
 - Modélisation (SAS) : test et comparaison des modèles
 - Visualisation (Tableau) : mise en page des résultats obtenus
 
-### Formations
+### ▶️ Formations
 - **Master Chargé d'études économiques et de marchés** (CEEM) - UPPA (2018-2020)
 - Formation aux langages web **Html, CSS et JavaScript** à l'aide de la plateforme Open Classrooms (2024-2025)
 
-### Soft Skills
+### ▶️ Soft Skills
 - Rigueur
 - Curiosité
 - Esprit d'équipe
 - Créativité
 - Autonomie
 
-### Statistiques Github
+### ▶️ Statistiques Github
+![Stats de DLL40](https://github-readme-stats-vercel.app/api?username=DLL40&show_icons=true&theme=radical) 
 
-### Langues
+### ▶️ Langues
 
-### Centre d'intérêt
+### ▶️ Centre d'intérêt
 
-### Me contacter
+### ▶️ Me contacter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/denis-lopez-lozano-082904201) 
 
 [📃Télécharger mon CV](./CV_Denis_LOPEZ_LOZANO_DataScientist.pdf)
