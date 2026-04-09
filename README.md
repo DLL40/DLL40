@@ -2,7 +2,7 @@
 
 Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science** au sein de l'école **CODA** à Dijon pour la rentrée 2026, je combine rigueur statistique, maîtrise des outils statistiques (R, SAS, SQL), une base solide de la programmation (python) ainsi que la capacité de synthétiser efficacement les résultats.
 
-=> Ce qui m'attire dans ce métier : Transformer les données brutes en décisions stratégiques et ainsi participer à la prise de décision
+↪️ Ce qui m'attire dans ce métier : Transformer les données brutes en décisions stratégiques et ainsi participer à la prise de décision
 
 « Il y a une magie dans les graphiques. Le proﬁl d’une courbe révèle en un ﬂash toute une situation. L’histoire d’une épidémie, d’une panique ou d’une ère de prospérité… La courbe informe l’esprit, éveille l’imagination, forge la conviction. » – Henry D. Hubbard
 
@@ -46,4 +46,5 @@ Autres :
 
 ### Me contacter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/denis-lopez-lozano-082904201) 
-[Télécharger mon CV](./CV_Denis_LOPEZ_LOZANO_DataScientist.pdf)
+
+[📃Télécharger mon CV](./CV_Denis_LOPEZ_LOZANO_DataScientist.pdf)
