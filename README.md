@@ -46,4 +46,4 @@ Autres :
 
 ### Me contacter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/denis-lopez-lozano-082904201) 
-
+[Télécharger mon CV](./CV_Denis_LOPEZ_LOZANO_DataScientist)
