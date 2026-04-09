@@ -3,8 +3,9 @@
 Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science** au sein de l'école **CODA** à Dijon pour la rentrée 2026, je combine rigueur statistique, maîtrise des outils statistiques (R, SAS, SQL), une base solide de la programmation (python) ainsi que la capacité de synthétiser efficacement les résultats.
 
 ↪️ Ce qui m'attire dans ce métier : Transformer les données brutes en décisions stratégiques et ainsi participer à la prise de décision
-
-« Il y a une magie dans les graphiques. Le proﬁl d’une courbe révèle en un ﬂash toute une situation. L’histoire d’une épidémie, d’une panique ou d’une ère de prospérité… La courbe informe l’esprit, éveille l’imagination, forge la conviction. » – Henry D. Hubbard
+<p align="center">
+<i>💡« Il y a une magie dans les graphiques. Le proﬁl d’une courbe révèle en un ﬂash toute une situation. L’histoire d’une épidémie, d’une panique ou d’une ère de prospérité… La courbe informe l’esprit, éveille l’imagination, forge la conviction. »<i><br> – Henry D. Hubbard
+</p>
 
 ### ▶️ Résumé
 - 🎓 Actuellement à la recherche d'une **alternance** pour septembre 2026 (Rythme : 3 semaines/ 1 semaine)
@@ -43,11 +44,14 @@ Autres :
 ![Stats de DLL40](https://github-readme-stats-vercel.app/api?username=DLL40&show_icons=true&theme=radical) 
 
 ### ▶️ Langues
-![Français](https://img.shields.io/badge/Français-Langue%20Maternelle-blue?style=flat-square&logo=openstreetmap&logoColor=white)
 - 🇫🇷 Français (Langue maternelle)
 - 🇬🇧 Anglais (niveau B2)
 
 ### ▶️ Centre d'intérêt
+- Pratique du Basket-ball en club et bénévolat
+- Lecture : actualités, géopolitique, romans dystopiques, revues scientifiques
+- Documentaires et cinéma
+- Voyages et découvertes
 
 ### ▶️ Me contacter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/denis-lopez-lozano-082904201) 
