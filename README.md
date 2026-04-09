@@ -8,8 +8,14 @@ Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science*
 </p>
 
 ### ▶️ Résumé
-- 🎓 Actuellement à la recherche d'une **alternance** pour septembre 2026 (Rythme : 3 semaines/ 1 semaine)
-- 🔧 Compétences : Python (Pandas, Numpy), SQL, R, SPSS, SAS
+*📍**Basé à :** Dijon, France
+*📅**Disponibilité :** Actuellement à la recherche d'une **alternance pour septembre 2026** (Rythme : 3 semaines/ 1 semaine)
+*🔧**Compétences :** Python (Pandas, Numpy), SQL, R, SPSS, SAS
+
+### ▶️ Me contacter
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/denis-lopez-lozano-082904201) 
+
+[📃Télécharger mon CV](./CV_Denis_LOPEZ_LOZANO_DataScientist.pdf)
 
 ### ▶️ Projets Majeurs
 Python : 
@@ -29,7 +35,7 @@ Autres :
 - Modélisation (SAS) : test et comparaison des modèles
 - Visualisation (Tableau) : mise en page des résultats obtenus
 
-### ▶️ Formations
+### ▶️ Formations 🎓
 - **Master Chargé d'études économiques et de marchés** (CEEM) - UPPA (2018-2020)
 - Formation aux langages web **Html, CSS et JavaScript** à l'aide de la plateforme Open Classrooms (2024-2025)
 
@@ -53,7 +59,4 @@ Autres :
 - Documentaires et cinéma
 - Voyages et découvertes
 
-### ▶️ Me contacter
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/denis-lopez-lozano-082904201) 
 
-[📃Télécharger mon CV](./CV_Denis_LOPEZ_LOZANO_DataScientist.pdf)
