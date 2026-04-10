@@ -1,6 +1,8 @@
 # <p align="center"> Denis, aspirant et futur Data Scientist  📊 </p>
 <br>
 
+---
+
 Étudiant en  1ère année du **Master Intelligence Artificielle et Data Science** au sein de l'école **CODA** à Dijon pour la rentrée 2026, je combine rigueur statistique, maîtrise des outils statistiques **(R, SAS, SQL)**, une base solide de la programmation **(python)** ainsi que la capacité de synthétiser efficacement les résultats.
 
 ↪️ Ce qui m'attire dans ce métier : Transformer les données brutes en décisions stratégiques et ainsi participer à la prise de décision
@@ -68,12 +70,6 @@
 
 ---
 
-### ▶️ Statistiques Github
-
-![Stats de DLL40](https://github-readme-stats-vercel.app/api?username=DLL40&show_icons=true&theme=radical) 
-
----
-
 ### ▶️ Langues
 
 - 🇫🇷 Français (Langue maternelle)
@@ -81,11 +77,23 @@
 
 ---
 
-### ▶️ Centre d'intérêt
+### ▶️ Centres d'intérêt
 
 - Pratique du Basket-ball en club et bénévolat
-- Lecture : actualités, géopolitique, romans dystopiques, revues scientifiques
+- Lecture : actualités, géopolitique, romans dystopiques, revues scientifiques et veille technologique
 - Documentaires et cinéma
 - Voyages et découvertes
+
+---
+
+### ▶️ Statistiques Github 📊
+
+<p align="center">
+<img src="https://github-readme-stats-vercel.app/api?username=DLL40&show_icons=true&theme=radical" alt="Statistiques de Denis" height="150" />
+<img src="https://github-readme-stats-vercel.app/api/top.langs/?username==DLL40&layout=compact&theme=radical" alt="Langages les plus utilisés" height="150" />
+</p>
+
+
+![Stats de DLL40](https://github-readme-stats-vercel.app/api?username=DLL40&show_icons=true&theme=radical) 
 
 
