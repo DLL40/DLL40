@@ -15,7 +15,8 @@ Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science*
 ### ▶️ Me contacter
 
 <p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/denis-lopez-lozano-082904201) 
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/denis-lopez-lozano-082904201) 
 
 [📃Télécharger mon CV](./CV_Denis_LOPEZ_LOZANO_DataScientist.pdf)
 </p>
