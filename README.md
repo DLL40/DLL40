@@ -4,11 +4,11 @@ Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science*
 
 ↪️ Ce qui m'attire dans ce métier : Transformer les données brutes en décisions stratégiques et ainsi participer à la prise de décision
 <p align="center">
-<i>💡« Il y a une magie dans les graphiques. Le proﬁl d’une courbe révèle en un ﬂash toute une situation. L’histoire d’une épidémie, d’une panique ou d’une ère de prospérité… La courbe informe l’esprit, éveille l’imagination, forge la conviction. »<i><br> – Henry D. Hubbard
+<i>💡« Il y a une magie dans les graphiques. Le proﬁl d’une courbe révèle en un ﬂash toute une situation. L’histoire d’une épidémie, d’une panique ou d’une ère de prospérité… La courbe informe l’esprit, éveille l’imagination, forge la conviction.»</i><br> – Henry D. Hubbard
 </p>
 
 ### ▶️ Résumé
--📍**Basé à :** Dijon, France
+-📍**Basé à :** Dijon, France 
 -📅**Disponibilité :** Actuellement à la recherche d'une **alternance pour septembre 2026** (Rythme : 3 semaines/ 1 semaine)
 -🔧**Compétences :** Python (Pandas, Numpy), SQL, R, SPSS, SAS
 
@@ -16,7 +16,8 @@ Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science*
 
 <p align="left">
 <a
-  href="www.linkedin.com/in/denis-lopez-lozano-082904201"target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn Denis"></a>
+href="www.linkedin.com/in/denis-lopez-lozano-082904201"target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn Denis"></a>
+</p>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/denis-lopez-lozano-082904201) 
 
