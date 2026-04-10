@@ -1,5 +1,5 @@
 # <p align="center"> Denis, aspirant et futur Data Scientist  📊 </p>
-
+<br>
 
 Étudiant en  1ère année du **Master Intelligence Artificielle et Data Science** au sein de l'école **CODA** à Dijon pour la rentrée 2026, je combine rigueur statistique, maîtrise des outils statistiques **(R, SAS, SQL)**, une base solide de la programmation **(python)** ainsi que la capacité de synthétiser efficacement les résultats.
 
