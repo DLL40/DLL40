@@ -18,8 +18,6 @@ Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science*
 
 - Mon CV : [📃Télécharger mon CV](./CV_Denis_LOPEZ_LOZANO_DataScientist.pdf)
 
-- [![LinkedIn](https://img.shields.io/badge/Télécharger%20mon%20CV-PDF-0077B5?style=for-the-badge&logo=googledrive&logoColor=white")(./CV_Denis_LOPEZ_LOZANO_DataScientist.pdf)]
-
 ### ▶️ Projets Majeurs
 Python : 
 - Réalisation de scripts python permettant une assistance au quotidien pour les tâches répétitives (fusion de documents, traduction, conversion de fichiers...)
