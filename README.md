@@ -67,10 +67,10 @@
 </p>
 
 - Rigueur : 
-- Curiosité
-- Esprit d'équipe
-- Créativité
-- Autonomie
+- Curiosité : 
+- Esprit d'équipe : 
+- Créativité : 
+- Autonomie : 
 
 ---
 
