@@ -31,17 +31,17 @@
 
 ### ▶️ Projets Majeurs 📝
 
-**Python :**
+🐍**Python :**
 - Réalisation de scripts python permettant une assistance au quotidien pour les tâches répétitives (fusion de documents, traduction, conversion de fichiers...)
 - Manipulation d'un dataframe avec Python (suppression, création et renommage de variables)
 
-**Logiciels statistiques :** 
+📈**Logiciels statistiques :** 
 - Projet Telemarketing Bancaire : Utilisation des techniques de datamining afin de prédire la souscription d’un dépôt à long terme (R, SPSS, SAS)
 - Projet académique visant à prédire la probabilité qu'une huitre gréffée produise une perle en fonction de divers paramètres tels que la profondeur d'élevage ou son poids (SPSS, SAS)
 
-**Autres :**
+📁**Autres :**
 - Suivi de l'épidémie de coronavirus avec la base de données Worldometer (graphiques excel)
-- Réalisation de cartes qgis sur la mobilité dans le département des Landes (40)
+- Réalisation de cartes Qgis sur la mobilité dans le département des Landes (40)
 
 ---
 
