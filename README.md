@@ -33,7 +33,7 @@
 
 **Python :**
 - Réalisation de scripts python permettant une assistance au quotidien pour les tâches répétitives (fusion de documents, traduction, conversion de fichiers...)
-- Manipulation d'un dataframe avec python (suppression, création et renommage de variables)
+- Manipulation d'un dataframe avec Python (suppression, création et renommage de variables)
 
 **Logiciels statistiques :** 
 - Projet Telemarketing Bancaire : Utilisation des techniques de datamining afin de prédire la souscription d’un dépôt à long terme (R, SPSS, SAS)
@@ -47,9 +47,9 @@
 
 ### ▶️ Compétences techniques 🛠️
 
-- Analyse exploratoire et descriptive des données (R, SPSS, Pandas et Numpy, SQL) : Dictionnaire des données, statistiques univariées et bivariées
-- Modélisation (SAS) : test et comparaison des modèles
-- Visualisation (Tableau) : mise en page des résultats obtenus
+- **Analyse exploratoire et descriptive des données (R, SPSS, Pandas et Numpy, SQL) :** Dictionnaire des données, statistiques univariées et bivariées
+- **Modélisation (SAS) :** test et comparaison des modèles
+- **Visualisation (Tableau) :** mise en page des résultats obtenus
 
 ---
 
@@ -66,11 +66,11 @@
 <i>💡« La technologie n'est rien. Ce qui est important, c'est d'avoir foi en les gens [...]. »</i><br> – Steve Jobs
 </p>
 
-- Rigueur : 
-- Curiosité : 
-- Esprit d'équipe : 
-- Créativité : 
-- Autonomie : 
+- **Rigueur :** Précision, respect des procédures, persévérance face aux bugs et application
+- **Curiosité :** Documentation et veille active sur les nouvelles technologies et sur l'IA
+- **Esprit d'équipe :** Écoute et collaboration
+- **Créativité :** Approche originale pour résoudre des problèmes et visualiser des données
+- **Autonomie :** Gestion du temps et prise d'initiative
 
 ---
 
