@@ -1,4 +1,4 @@
-# Denis, aspirant et futur Data Scientist  📊
+# <p align="center"> Denis, aspirant et futur Data Scientist  📊 </p>
 
 Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science** au sein de l'école **CODA** à Dijon pour la rentrée 2026, je combine rigueur statistique, maîtrise des outils statistiques (R, SAS, SQL), une base solide de la programmation (python) ainsi que la capacité de synthétiser efficacement les résultats.
 
@@ -8,8 +8,8 @@ Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science*
 </p>
 
 ### ▶️ Résumé
--📍**Basé à :** Dijon, France 
--📅**Disponibilité :** Actuellement à la recherche d'une **alternance pour septembre 2026** (Rythme : 3 semaines/ 1 semaine)
+-📍**Basé à :** Dijon, France <br>
+-📅**Disponibilité :** Actuellement à la recherche d'une **alternance pour septembre 2026** (Rythme : 3 semaines/ 1 semaine) <br>
 -🔧**Compétences :** Python (Pandas, Numpy), SQL, R, SPSS, SAS
 
 ### ▶️ Me contacter
