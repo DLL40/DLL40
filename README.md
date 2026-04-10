@@ -8,11 +8,16 @@ Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science*
 </p>
 
 ### ▶️ Résumé
-*📍**Basé à :** Dijon, France
-*📅**Disponibilité :** Actuellement à la recherche d'une **alternance pour septembre 2026** (Rythme : 3 semaines/ 1 semaine)
-*🔧**Compétences :** Python (Pandas, Numpy), SQL, R, SPSS, SAS
+-📍**Basé à :** Dijon, France
+-📅**Disponibilité :** Actuellement à la recherche d'une **alternance pour septembre 2026** (Rythme : 3 semaines/ 1 semaine)
+-🔧**Compétences :** Python (Pandas, Numpy), SQL, R, SPSS, SAS
 
 ### ▶️ Me contacter
+
+<p align="left">
+<a
+  href="www.linkedin.com/in/denis-lopez-lozano-082904201"target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn Denis"></a>
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/denis-lopez-lozano-082904201) 
 
 [📃Télécharger mon CV](./CV_Denis_LOPEZ_LOZANO_DataScientist.pdf)
