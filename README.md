@@ -6,11 +6,14 @@ Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science*
 <p align="center">
 <i>💡« Il y a une magie dans les graphiques. Le proﬁl d’une courbe révèle en un ﬂash toute une situation. L’histoire d’une épidémie, d’une panique ou d’une ère de prospérité… La courbe informe l’esprit, éveille l’imagination, forge la conviction.»</i><br> – Henry D. Hubbard
 </p>
+---
 
 ### ▶️ Résumé
 -📍**Basé à :** Dijon, France <br>
 -📅**Disponibilité :** Actuellement à la recherche d'une **alternance pour septembre 2026** (Rythme : 3 semaines/ 1 semaine) <br>
 -🔧**Compétences :** Python (Pandas, Numpy), SQL, R, SPSS, SAS
+
+---
 
 ### ▶️ Me contacter
 
@@ -32,7 +35,7 @@ Autres :
 - Réalisation de cartes qgis sur la mobilité dans le département des Landes (40)
 
 ### ▶️ Compétences techniques 
-- Analyse exploratoire et descritive des données (R, SPSS, Pandas et Numpy, SQL) : Dictionnaire des données, statistiques univariées et bivariées
+- Analyse exploratoire et descriptive des données (R, SPSS, Pandas et Numpy, SQL) : Dictionnaire des données, statistiques univariées et bivariées
 - Modélisation (SAS) : test et comparaison des modèles
 - Visualisation (Tableau) : mise en page des résultats obtenus
 
