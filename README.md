@@ -89,11 +89,6 @@
 ### ▶️ Statistiques Github 📊
 
 <p align="center">
-<img src="https://github-readme-stats-vercel.app/api?username=DLL40&show_icons=true&theme=radical" alt="Statistiques de Denis" height="150" />
-<img src="https://github-readme-stats-vercel.app/api/top.langs/?username==DLL40&layout=compact&theme=radical" alt="Langages les plus utilisés" height="150" />
+<img src="https://github-readme-stats-vercel.app/api?username=dll40&show_icons=true&theme=radical" alt="Statistiques de Denis" height="150" />
+<img src="https://github-readme-stats-vercel.app/api/top.langs/?username=dll40&layout=compact&theme=radical" alt="Langages les plus utilisés" height="150" />
 </p>
-
-
-![Stats de DLL40](https://github-readme-stats-vercel.app/api?username=DLL40&show_icons=true&theme=radical) 
-
-
