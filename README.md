@@ -3,7 +3,7 @@
 
 ---
 
-Étudiant en  1ère année du **Master Intelligence Artificielle et Data Science** au sein de l'école **CODA** à Dijon pour la rentrée 2026, je combine rigueur statistique, maîtrise des outils statistiques **(R, SAS, SQL)**, une base solide de la programmation **(python)** ainsi que la capacité de synthétiser efficacement les résultats.
+Étudiant en  1ère année du **Master Intelligence Artificielle et Data Science** au sein de l'école **CODA** à Dijon pour la rentrée 2026, je combine rigueur statistique, maîtrise des outils statistiques **(R, SAS, SQL)**, une base solide de la programmation **(Python)** ainsi que la capacité de synthétiser efficacement les résultats.
 
 ↪️ Ce qui m'attire dans ce métier : Transformer les données brutes en décisions stratégiques et ainsi participer à la prise de décision
 
@@ -13,7 +13,7 @@
 
 ---
 
-### ▶️ Résumé
+### ▶️ Résumé 🚀
 
 - 📍**Basé à :** Dijon, France 🇫🇷
 - 📅**Disponibilité :** Actuellement à la recherche d'une **alternance pour septembre 2026** (Rythme : 3 semaines/ 1 semaine)
@@ -21,7 +21,7 @@
 
 ---
 
-### ▶️ Me contacter
+### ▶️ Me contacter 📧
 
 - Mon LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/denis-lopez-lozano-082904201) 
 
@@ -29,7 +29,7 @@
 
 ---
 
-### ▶️ Projets Majeurs
+### ▶️ Projets Majeurs 📝
 
 **Python :**
 - Réalisation de scripts python permettant une assistance au quotidien pour les tâches répétitives (fusion de documents, traduction, conversion de fichiers...)
@@ -45,7 +45,7 @@
 
 ---
 
-### ▶️ Compétences techniques 
+### ▶️ Compétences techniques 🛠️
 
 - Analyse exploratoire et descriptive des données (R, SPSS, Pandas et Numpy, SQL) : Dictionnaire des données, statistiques univariées et bivariées
 - Modélisation (SAS) : test et comparaison des modèles
@@ -60,9 +60,13 @@
 
 ---
 
-### ▶️ Soft Skills
+### ▶️ Soft Skills 🧠
 
-- Rigueur
+<p align="center">
+<i>💡« La technologie n'est rien. Ce qui est important, c'est d'avoir foi en les gens [...]. »</i><br> – Steve Jobs
+</p>
+
+- Rigueur : 
 - Curiosité
 - Esprit d'équipe
 - Créativité
@@ -70,14 +74,14 @@
 
 ---
 
-### ▶️ Langues
+### ▶️ Langues 🌐
 
 - 🇫🇷 Français (Langue maternelle)
 - 🇬🇧 Anglais (niveau B2)
 
 ---
 
-### ▶️ Centres d'intérêt
+### ▶️ Centres d'intérêt 🎭
 
 - Pratique du Basket-ball en club et bénévolat
 - Lecture : actualités, géopolitique, romans dystopiques, revues scientifiques et veille technologique
