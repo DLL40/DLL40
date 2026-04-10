@@ -11,9 +11,10 @@ Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science*
 ---
 
 ### ▶️ Résumé
--📍**Basé à :** Dijon, France 🇫🇷 <br>
--📅**Disponibilité :** Actuellement à la recherche d'une **alternance pour septembre 2026** (Rythme : 3 semaines/ 1 semaine) <br>
--🔧**Compétences :** Python (Pandas, Numpy), SQL, R, SPSS, SAS
+
+- jj📍**Basé à :** Dijon, France 🇫🇷
+- jj📅**Disponibilité :** Actuellement à la recherche d'une **alternance pour septembre 2026** (Rythme : 3 semaines/ 1 semaine) <br>
+- jj🔧**Compétences :** Python (Pandas, Numpy), SQL, R, SPSS, SAS
 
 ---
 
