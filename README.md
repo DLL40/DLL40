@@ -1,8 +1,9 @@
 # <p align="center"> Denis, aspirant et futur Data Scientist  📊 </p>
 
-Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science** au sein de l'école **CODA** à Dijon pour la rentrée 2026, je combine rigueur statistique, maîtrise des outils statistiques (R, SAS, SQL), une base solide de la programmation (python) ainsi que la capacité de synthétiser efficacement les résultats.
+Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science** au sein de l'école **CODA** à Dijon pour la rentrée 2026, je combine rigueur statistique, maîtrise des outils statistiques **(R, SAS, SQL)**, une base solide de la programmation **(python)** ainsi que la capacité de synthétiser efficacement les résultats.
 
 ↪️ Ce qui m'attire dans ce métier : Transformer les données brutes en décisions stratégiques et ainsi participer à la prise de décision
+
 <p align="center">
 <i>💡« Il y a une magie dans les graphiques. Le proﬁl d’une courbe révèle en un ﬂash toute une situation. L’histoire d’une épidémie, d’une panique ou d’une ère de prospérité… La courbe informe l’esprit, éveille l’imagination, forge la conviction.»</i><br> – Henry D. Hubbard
 </p>
@@ -10,7 +11,7 @@ Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science*
 ---
 
 ### ▶️ Résumé
--📍**Basé à :** Dijon, France <br>
+-📍**Basé à :** Dijon, France 🇫🇷 <br>
 -📅**Disponibilité :** Actuellement à la recherche d'une **alternance pour septembre 2026** (Rythme : 3 semaines/ 1 semaine) <br>
 -🔧**Compétences :** Python (Pandas, Numpy), SQL, R, SPSS, SAS
 
@@ -25,6 +26,7 @@ Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science*
 ---
 
 ### ▶️ Projets Majeurs
+
 **Python :**
 - Réalisation de scripts python permettant une assistance au quotidien pour les tâches répétitives (fusion de documents, traduction, conversion de fichiers...)
 - Manipulation d'un dataframe avec python (suppression, création et renommage de variables)
@@ -40,6 +42,7 @@ Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science*
 ---
 
 ### ▶️ Compétences techniques 
+
 - Analyse exploratoire et descriptive des données (R, SPSS, Pandas et Numpy, SQL) : Dictionnaire des données, statistiques univariées et bivariées
 - Modélisation (SAS) : test et comparaison des modèles
 - Visualisation (Tableau) : mise en page des résultats obtenus
@@ -47,12 +50,14 @@ Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science*
 ---
 
 ### ▶️ Formations 🎓
+
 - **Master Chargé d'études économiques et de marchés** (CEEM) - UPPA (2018-2020)
 - Formation aux langages web **Html, CSS et JavaScript** à l'aide de la plateforme Open Classrooms (2024-2025)
 
 ---
 
 ### ▶️ Soft Skills
+
 - Rigueur
 - Curiosité
 - Esprit d'équipe
@@ -62,17 +67,20 @@ Etudiant en  1ère année du **Master Intelligence Artificielle et Data Science*
 ---
 
 ### ▶️ Statistiques Github
+
 ![Stats de DLL40](https://github-readme-stats-vercel.app/api?username=DLL40&show_icons=true&theme=radical) 
 
 ---
 
 ### ▶️ Langues
+
 - 🇫🇷 Français (Langue maternelle)
 - 🇬🇧 Anglais (niveau B2)
 
 ---
 
 ### ▶️ Centre d'intérêt
+
 - Pratique du Basket-ball en club et bénévolat
 - Lecture : actualités, géopolitique, romans dystopiques, revues scientifiques
 - Documentaires et cinéma
