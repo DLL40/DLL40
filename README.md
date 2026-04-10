@@ -32,7 +32,7 @@
 ### ▶️ Projets Majeurs 📝
 
 🐍**Python :**
-- Réalisation de scripts python permettant une assistance au quotidien pour les tâches répétitives (fusion de documents, traduction, conversion de fichiers...)
+- Réalisation de scripts python permettant une assistance au quotidien pour les tâches répétitives (fusion de documents, traduction, conversion de fichiers...) => (https://github.com/DLL40/
 - Manipulation d'un dataframe avec Python (suppression, création et renommage de variables)
 
 📈**Logiciels statistiques :** 
