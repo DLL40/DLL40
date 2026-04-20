@@ -33,7 +33,7 @@
 
 🐍**Python :**
 - Réalisation de scripts python permettant une assistance au quotidien pour les tâches répétitives (fusion de documents, traduction, conversion de fichiers...) => [Voir mes projets](https://github.com/DLL40/script_python_automatisation)
-- Manipulation d'un dataframe avec Python (suppression, création et renommage de variables)
+- Manipulation d'un dataframe avec Python (suppression, création et renommage de variables) => [Voir](https://github.com/DLL40/)
 
 📈**Logiciels statistiques :** 
 - Projet Telemarketing Bancaire : Utilisation des techniques de datamining afin de prédire la souscription d’un dépôt à long terme **(R, SPSS, SAS)**
