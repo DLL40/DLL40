@@ -37,7 +37,7 @@
 
 📈**Logiciels statistiques :** 
 - Projet Telemarketing Bancaire : Utilisation des techniques de datamining afin de prédire la souscription d’un dépôt à long terme **(R, SPSS, SAS)**
-- Projet académique visant à prédire la probabilité qu'une huitre gréffée produise une perle en fonction de divers paramètres tels que la profondeur d'élevage ou son poids **(SPSS, SAS)**
+- Projet académique visant à prédire la probabilité qu'une huître gréffée produise une perle en fonction de divers paramètres tels que la profondeur d'élevage ou son poids **(SPSS, SAS)**
 
 📁**Autres :**
 - Suivi de l'épidémie de coronavirus avec la base de données Worldometer (graphiques excel)
