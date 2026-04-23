@@ -55,6 +55,7 @@
 
 ### ▶️ Formations 🎓
 
+- **Master of Science Data Science & IA** - CODA (2026-2028)
 - **Master Chargé d'études économiques et de marchés** (CEEM) - UPPA (2018-2020)
 - Formation aux langages web **Html, CSS et JavaScript** à l'aide de la plateforme Open Classrooms (2024-2025)
 
